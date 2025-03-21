@@ -1,0 +1,4 @@
+2. What is Attribute ?
+A. In HTML, an attribute is a piece of markup language used to provide additional information about an HTML element, such as its behavior or appearance.
+   Syntex: attribute_name="value"
+   Exmaple: <img src="image.jpg" alt="Description of the image">
