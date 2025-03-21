@@ -1,1 +1,6 @@
-
+1. What is HTML ?
+A. 1. HTML stands for Hyper Text Markup Language.
+   2. It consists of elements.
+   3. Elements are represeted by tages.
+   4. Browser do not display the tags, but it will display the content in between a tags.
+   Ex: <tagname> Content </tagname> (This complete example we called it has element).
