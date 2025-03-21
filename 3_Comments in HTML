@@ -1,0 +1,6 @@
+3. Comments
+A. Used for debug the code 
+  Syntax:
+       Start a comment with <!--. 
+       End a comment with --> 
+   Example: <!-- Your comment here -->
